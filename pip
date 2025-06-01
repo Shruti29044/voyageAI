@@ -1,0 +1,1 @@
+!pip install sentence-transformers faiss-cpu requests torch torchvision pillow transformers chromadb nltk gradio
