@@ -67,3 +67,6 @@ This app uses local models only — no API keys needed for LLMs.
 For best results, run with GPU enabled in Colab.
 
 
+
+
+
